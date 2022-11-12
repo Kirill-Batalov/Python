@@ -14,3 +14,4 @@ for rows in matrix:
         # 4 - 4 символа на каждое число
         print(f'{num:<4d}', end='')
     print()
+# ПРИВЕТ КИРИЛЛ
